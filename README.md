@@ -1,18 +1,20 @@
-# Nameless Admin (Archived Project)
+# Nameless Admin Revamped
 
-> **⚠️ This repository is archived and no longer maintained.**
+> **⚠️ This script is not the official Nameless Admin script.**
 >
 > Nameless Admin was an official continuation of a legacy script. The development team maintained and expanded upon the original functionalities, delivering new commands and improvements. However, the project is now considered archived and inactive.
 
-## Final Maintainers (Before Archive)
+## Developers
+* [Malrous (malrous)](https://github.com/Malrous) (Owner)
+
+## Original Developers
 
 * [Aervanix (ltseverydayyou)](https://github.com/ltseverydayyou)
 * [Viper (Cosmella-v)](https://github.com/Cosmella-v)
 
-## Archive Information
+## Script Information
 
-* **Status:** Development frozen. No new features or fixes will be added.
-* **Legacy Support:** Older scripts remain accessible but are unsupported.
+* **Status:** Active though will update less than BetterIY
 
 ## Original Creator
 
